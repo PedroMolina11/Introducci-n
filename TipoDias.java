@@ -1,4 +1,8 @@
 import java.util.Scanner;
+/**
+@author Peter
+@version 1.3462456
+*/
 public class TipoDias{
    public static void main(String args[]){
       System.out.println("Introduce una palabra");
