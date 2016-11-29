@@ -5,7 +5,7 @@ import java.util.Scanner;
 */
 public class TipoDias{
    public static void main(String args[]){
-      System.out.println("Introduce una palabra");
+      System.out.println("Introduce un día de la semana");
       Scanner sc = new Scanner(System.in);
       String diaSemana = sc.next();
       sc.close();
