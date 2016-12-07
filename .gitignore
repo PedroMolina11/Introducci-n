@@ -7,6 +7,10 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 
+=======
+doc/
+>>>>>>> caf4cd80f9f499549bc02a7982fc561ab1761925
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
